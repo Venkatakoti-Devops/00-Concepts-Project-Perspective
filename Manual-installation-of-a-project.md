@@ -263,7 +263,7 @@ Date: 11-08-2023
 
 ## RabbitMQ
 
-- Its one of the popular Messaging Queue Software
+- Its one of the popular Messaging Queue Database Software
 - ActiveMQ, Kafka are some other message queue softwares
 - AMQP: Advanced Messaging Queue Protocol
 
