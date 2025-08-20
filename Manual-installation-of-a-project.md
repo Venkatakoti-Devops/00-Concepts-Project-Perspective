@@ -1,7 +1,7 @@
 # Manual installation of project
 
 
-- Every application these days follow 3 tier architecture i.e. Web Tier, Application Tier and Database Tier
+- Every application these days follow 3 tier architecture i.e. Web Tier, Application/Backend Tier and Database Tier
 - Web Tier includes Load Balancer component as well
 
 ## Public IP, Private IP and How Internet works
