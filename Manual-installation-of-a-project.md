@@ -115,6 +115,7 @@
 ## NGiNX
 
 - NGiNX is a webserver and serves as a reverse proxy
+- NGiNX default html file location `/usr/share/nginx/html/`
 - The default configuration of NGiNX is present inside `/etc/nginx/nginx.conf`
 - User defined configuration can be placed under `/etc/nginx/default.d/` directory
 - **When ever we make any change to the configuration file, we should restart our server**
