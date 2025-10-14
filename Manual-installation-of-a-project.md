@@ -202,7 +202,7 @@
 ## Status codes
 
 - 2** - Success
-- 3** - redirection
+- 3** - redirection  redirect/temp --> images, gifs are redirected
 - 4** - client side error: Not giving proper URL
 - 5** - server side error: There is something wrong inside server/code
 
