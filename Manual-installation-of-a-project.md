@@ -137,6 +137,7 @@
 
 ## MongoDB
 
+- DB Tier are heavy applications, suggested to use t3.micro
 - RDBMS: Relation Database Management System
   - SQL based i.e. we have rows and columns
   - E.g. PostgreSQL, MySQL etc
